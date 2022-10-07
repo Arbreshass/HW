@@ -1,0 +1,47 @@
+body{
+    background:radial-gradient(905px at 4.9% 85.8%, rgb(255, 243, 242) 0.1%, rgb(255, 247, 220) 57.6%);
+}
+.title {
+    font-size: 35px;
+    font-family: 'Lucida Sans';
+    text-align: center;
+    font-style: normal;
+    font-weight: 300;
+    text-align: center;
+}
+ul.a {
+    list-style-type: square;
+  }
+  #post {
+    text-align: center;
+    text-decoration: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  #question{
+    padding: 20px;
+  }
+  #photo{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      
+
+  }
+  #link:link, #link:visited {
+    background-color: bisque;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-style: solid;
+    padding: 17px;
+    margin-left: 450px;
+    
+  }
+  
+  #link:hover, #link:active {
+    background-color: burlywood;
+  }
