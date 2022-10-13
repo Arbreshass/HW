@@ -1,5 +1,6 @@
 body{
     background:radial-gradient(905px at 4.9% 85.8%, rgb(255, 243, 242) 0.1%, rgb(255, 247, 220) 57.6%);
+    margin: 0px 75px;
 }
 .title {
     font-size: 35px;
@@ -8,6 +9,10 @@ body{
     font-style: normal;
     font-weight: 300;
     text-align: center;
+  
+}
+.title::first-letter{
+  font-size: 42px;
 }
 ul.a {
     list-style-type: square;
@@ -16,6 +21,7 @@ ul.a {
     text-align: center;
     text-decoration: antiquewhite;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 15px bisque double;
   }
   #question{
     padding: 20px;
