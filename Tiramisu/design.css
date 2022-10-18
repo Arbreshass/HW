@@ -132,7 +132,7 @@
     font-size: 20px;
 }
 
-icons li a:hover i{
+.icons li a:hover i{
     transform: scale(1.5);
     color: #de6900;
     transition: all .2s ease-in-out;
